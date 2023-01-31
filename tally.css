@@ -1,0 +1,37 @@
+body{
+  background-color: lightgray;
+}
+table{
+  background-color: brown;
+  /* margin-top: 25vh;
+  margin-left: 25vw; */
+  width: 100vw;
+  height: 100vh;
+  font-size: 24px;
+}
+.main-table{
+  border: 5px solid black;
+  padding: 5px;
+}
+.table-header{
+ text-align: center;
+ background-color: aqua;
+ margin: 10px 10px;
+}
+.reaction-num{
+ text-align: center;
+background-color: aqua;
+}
+.imoji{
+  width: 10vw;
+  height: 15vh;
+  border-radius: 25px;
+  border: 5px solid black;
+}
+.input-align{
+  text-align:  center;
+  
+}
+.imotions{
+background-color: aqua;
+}
